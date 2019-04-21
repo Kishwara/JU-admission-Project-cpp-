@@ -1,0 +1,3212 @@
+# depslib dependency file v1.0
+1486014564 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\student.cpp
+	<iostream>
+	"student.h"
+
+1486014617 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\student.h
+	<bits/stdc++.h>
+
+1486014842 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\main.cpp
+	<bits/stdc++.h>
+	"student.h"
+	"aunit.h"
+	"maths.h"
+	"stats.h"
+	"chem.h"
+	"phy.h"
+	"geo.h"
+	"cse.h"
+	"env.h"
+	"bunit.h"
+	"eco.h"
+	"ge.h"
+	"gov.h"
+	"anthro.h"
+	"urp.h"
+	"pad.h"
+	"cunit.h"
+	"ban.h"
+	"eng.h"
+	"hist.h"
+	"phil.h"
+	"drama.h"
+	"arch.h"
+	"ir.h"
+	"jour.h"
+	"finearts.h"
+	"dunit.h"
+	"bot.h"
+	"zoo.h"
+	"phar.h"
+	"biochem.h"
+	"mbio.h"
+	"gene.h"
+	"health.h"
+	"eunit.h"
+	"funit.h"
+	"gunit.h"
+	"hunit.h"
+
+1486014925 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\aunit.h
+
+1486014925 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\aunit.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486014997 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\maths.h
+	"aunit.h"
+
+1486014997 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\maths.cpp
+	<bits/stdc++.h>
+	"maths.h"
+	"aunit.h"
+
+1485781732 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\stats.cpp
+	<bits/stdc++.h>
+	"stats.h"
+	"aunit.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\stats.h
+	"aunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\chem.cpp
+	<bits/stdc++.h>
+	"chem.h"
+	"aunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\chem.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1485781732 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\phy.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"phy.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\phy.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\geo.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"geo.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\geo.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\cse.cpp
+	<bits/stdc++.h>
+	"cse.h"
+	"aunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\cse.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\env.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"env.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\env.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\bunit.h
+	<bits/stdc++.h>
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\bunit.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\eco.cpp
+	<bits/stdc++.h>
+	"eco.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\eco.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\ge.cpp
+	<bits/stdc++.h>
+	"ge.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\ge.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\gov.cpp
+	<bits/stdc++.h>
+	"gov.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\gov.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\anthro.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"anthro.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\anthro.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\urp.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781732 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\urp.cpp
+	<bits/stdc++.h>
+	"urp.h"
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\pad.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"pad.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\pad.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\cunit.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\cunit.h
+	<bits/stdc++.h>
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\ban.cpp
+	<bits/stdc++.h>
+	"ban.h"
+	"cunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\ban.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\eng.cpp
+	<bits/stdc++.h>
+	"eng.h"
+	"cunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\eng.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\hist.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\hist.cpp
+	<bits/stdc++.h>
+	"hist.h"
+	"cunit.h"
+
+1485781732 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\phil.cpp
+	<bits/stdc++.h>
+	"phil.h"
+	"cunit.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\phil.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\drama.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"drama.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\drama.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\arch.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"arch.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\arch.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\ir.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"ir.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\ir.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\jour.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"jour.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\jour.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\finearts.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"finearts.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\finearts.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\dunit.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\dunit.h
+	<bits/stdc++.h>
+
+1485788722 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\bot.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"bot.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\bot.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781732 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\zoo.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"zoo.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\zoo.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\phar.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"phar.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\phar.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\biochem.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"biochem.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\biochem.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\mbio.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"mbio.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\mbio.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\gene.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"gene.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\gene.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\health.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"health.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\health.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\eunit.cpp
+	<bits/stdc++.h>
+	"eunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\eunit.h
+	<bits/stdc++.h>
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\funit.cpp
+	<bits/stdc++.h>
+	"funit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\funit.h
+	<bits/stdc++.h>
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\gunit.cpp
+	<bits/stdc++.h>
+	"gunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\gunit.h
+	<bits/stdc++.h>
+
+1485781731 source:c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\hunit.cpp
+	<bits/stdc++.h>
+	"hunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\ju_admission_exhibitor_project\hunit.h
+	<bits/stdc++.h>
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\anthro.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"anthro.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\bunit.h
+	<bits/stdc++.h>
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\anthro.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\arch.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"arch.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\cunit.h
+	<bits/stdc++.h>
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\arch.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486014925 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\aunit.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486014925 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\aunit.h
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\ban.cpp
+	<bits/stdc++.h>
+	"ban.h"
+	"cunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\ban.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\biochem.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"biochem.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\dunit.h
+	<bits/stdc++.h>
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\biochem.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485788722 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\bot.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"bot.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\bot.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\bunit.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\chem.cpp
+	<bits/stdc++.h>
+	"chem.h"
+	"aunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\chem.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\cse.cpp
+	<bits/stdc++.h>
+	"cse.h"
+	"aunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\cse.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\cunit.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\drama.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"drama.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\drama.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\dunit.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\eco.cpp
+	<bits/stdc++.h>
+	"eco.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\eco.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\eng.cpp
+	<bits/stdc++.h>
+	"eng.h"
+	"cunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\eng.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\env.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"env.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\env.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\eunit.cpp
+	<bits/stdc++.h>
+	"eunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\eunit.h
+	<bits/stdc++.h>
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\finearts.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"finearts.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\finearts.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\funit.cpp
+	<bits/stdc++.h>
+	"funit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\funit.h
+	<bits/stdc++.h>
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\ge.cpp
+	<bits/stdc++.h>
+	"ge.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\ge.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\gene.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"gene.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\gene.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\geo.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"geo.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\geo.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\gov.cpp
+	<bits/stdc++.h>
+	"gov.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\gov.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\gunit.cpp
+	<bits/stdc++.h>
+	"gunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\gunit.h
+	<bits/stdc++.h>
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\health.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"health.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\health.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\hist.cpp
+	<bits/stdc++.h>
+	"hist.h"
+	"cunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\hist.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\hunit.cpp
+	<bits/stdc++.h>
+	"hunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\hunit.h
+	<bits/stdc++.h>
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\ir.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"ir.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\ir.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\jour.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"jour.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\jour.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486014997 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\maths.cpp
+	<bits/stdc++.h>
+	"maths.h"
+	"aunit.h"
+
+1486014997 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\maths.h
+	"aunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\mbio.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"mbio.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\mbio.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\pad.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"pad.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\pad.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\phar.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"phar.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\phar.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781732 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\phil.cpp
+	<bits/stdc++.h>
+	"phil.h"
+	"cunit.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\phil.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781732 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\phy.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"phy.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\phy.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1485781732 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\stats.cpp
+	<bits/stdc++.h>
+	"stats.h"
+	"aunit.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\stats.h
+	"aunit.h"
+
+1485781732 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\urp.cpp
+	<bits/stdc++.h>
+	"urp.h"
+	"bunit.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\urp.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781732 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\zoo.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"zoo.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\zoo.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486021979 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\main.cpp
+	<bits/stdc++.h>
+	"student.h"
+	"aunit.h"
+	"maths.h"
+	"stats.h"
+	"chem.h"
+	"phy.h"
+	"geo.h"
+	"cse.h"
+	"env.h"
+	"bunit.h"
+	"eco.h"
+	"ge.h"
+	"gov.h"
+	"anthro.h"
+	"urp.h"
+	"pad.h"
+	"cunit.h"
+	"ban.h"
+	"eng.h"
+	"hist.h"
+	"phil.h"
+	"drama.h"
+	"arch.h"
+	"ir.h"
+	"jour.h"
+	"finearts.h"
+	"dunit.h"
+	"bot.h"
+	"zoo.h"
+	"phar.h"
+	"biochem.h"
+	"mbio.h"
+	"gene.h"
+	"health.h"
+	"eunit.h"
+	"funit.h"
+	"gunit.h"
+	"hunit.h"
+
+1486020818 c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\student.h
+	<bits/stdc++.h>
+
+1486020818 source:c:\users\user\desktop\sara love multifile\latest ju_admission_exhibitor_project\student.cpp
+	<iostream>
+	"student.h"
+
+1486121716 source:c:\users\user\desktop\sara love multifile\final sara project\anthro.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"anthro.h"
+
+1486121162 c:\users\user\desktop\sara love multifile\final sara project\bunit.h
+	<bits/stdc++.h>
+
+1486121716 c:\users\user\desktop\sara love multifile\final sara project\anthro.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\arch.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"arch.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\cunit.h
+	<bits/stdc++.h>
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\arch.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486119868 source:c:\users\user\desktop\sara love multifile\final sara project\aunit.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486119868 c:\users\user\desktop\sara love multifile\final sara project\aunit.h
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\ban.cpp
+	<bits/stdc++.h>
+	"ban.h"
+	"cunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\ban.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\biochem.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"biochem.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\dunit.h
+	<bits/stdc++.h>
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\biochem.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485788722 source:c:\users\user\desktop\sara love multifile\final sara project\bot.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"bot.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\bot.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486121162 source:c:\users\user\desktop\sara love multifile\final sara project\bunit.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\chem.cpp
+	<bits/stdc++.h>
+	"chem.h"
+	"aunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\chem.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\cse.cpp
+	<bits/stdc++.h>
+	"cse.h"
+	"aunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\cse.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\cunit.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\drama.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"drama.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\drama.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\dunit.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486121289 source:c:\users\user\desktop\sara love multifile\final sara project\eco.cpp
+	<bits/stdc++.h>
+	"eco.h"
+	"bunit.h"
+
+1486120355 c:\users\user\desktop\sara love multifile\final sara project\eco.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\eng.cpp
+	<bits/stdc++.h>
+	"eng.h"
+	"cunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\eng.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\env.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"env.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\env.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\eunit.cpp
+	<bits/stdc++.h>
+	"eunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\eunit.h
+	<bits/stdc++.h>
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\finearts.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"finearts.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\finearts.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\funit.cpp
+	<bits/stdc++.h>
+	"funit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\funit.h
+	<bits/stdc++.h>
+
+1486121373 source:c:\users\user\desktop\sara love multifile\final sara project\ge.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"ge.h"
+
+1486121373 c:\users\user\desktop\sara love multifile\final sara project\ge.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\gene.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"gene.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\gene.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\geo.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"geo.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\geo.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486121596 source:c:\users\user\desktop\sara love multifile\final sara project\gov.cpp
+	<bits/stdc++.h>
+	"gov.h"
+	"bunit.h"
+
+1486121596 c:\users\user\desktop\sara love multifile\final sara project\gov.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\gunit.cpp
+	<bits/stdc++.h>
+	"gunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\gunit.h
+	<bits/stdc++.h>
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\health.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"health.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\health.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\hist.cpp
+	<bits/stdc++.h>
+	"hist.h"
+	"cunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\hist.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\hunit.cpp
+	<bits/stdc++.h>
+	"hunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\hunit.h
+	<bits/stdc++.h>
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\ir.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"ir.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\ir.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\jour.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"jour.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\jour.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486122509 source:c:\users\user\desktop\sara love multifile\final sara project\main.cpp
+	<bits/stdc++.h>
+	"student.h"
+	"aunit.h"
+	"maths.h"
+	"stats.h"
+	"chem.h"
+	"phy.h"
+	"geo.h"
+	"cse.h"
+	"env.h"
+	"bunit.h"
+	"eco.h"
+	"ge.h"
+	"gov.h"
+	"anthro.h"
+	"urp.h"
+	"pad.h"
+	"cunit.h"
+	"ban.h"
+	"eng.h"
+	"hist.h"
+	"phil.h"
+	"drama.h"
+	"arch.h"
+	"ir.h"
+	"jour.h"
+	"finearts.h"
+	"dunit.h"
+	"bot.h"
+	"zoo.h"
+	"phar.h"
+	"biochem.h"
+	"mbio.h"
+	"gene.h"
+	"health.h"
+	"eunit.h"
+	"funit.h"
+	"gunit.h"
+	"hunit.h"
+
+1486118328 c:\users\user\desktop\sara love multifile\final sara project\student.h
+	<bits/stdc++.h>
+
+1486119868 c:\users\user\desktop\sara love multifile\final sara project\maths.h
+	"aunit.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\final sara project\stats.h
+	"aunit.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\final sara project\phy.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486121745 c:\users\user\desktop\sara love multifile\final sara project\urp.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486121870 c:\users\user\desktop\sara love multifile\final sara project\pad.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\final sara project\phil.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\final sara project\zoo.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\final sara project\phar.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\final sara project\mbio.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486119868 source:c:\users\user\desktop\sara love multifile\final sara project\maths.cpp
+	<bits/stdc++.h>
+	"maths.h"
+	"aunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\mbio.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"mbio.h"
+
+1486121870 source:c:\users\user\desktop\sara love multifile\final sara project\pad.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"pad.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\final sara project\phar.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"phar.h"
+
+1485781732 source:c:\users\user\desktop\sara love multifile\final sara project\phil.cpp
+	<bits/stdc++.h>
+	"phil.h"
+	"cunit.h"
+
+1485781732 source:c:\users\user\desktop\sara love multifile\final sara project\phy.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"phy.h"
+
+1485781732 source:c:\users\user\desktop\sara love multifile\final sara project\stats.cpp
+	<bits/stdc++.h>
+	"stats.h"
+	"aunit.h"
+
+1486122079 source:c:\users\user\desktop\sara love multifile\final sara project\student.cpp
+	<iostream>
+	"student.h"
+
+1486121745 source:c:\users\user\desktop\sara love multifile\final sara project\urp.cpp
+	<bits/stdc++.h>
+	"urp.h"
+	"bunit.h"
+
+1485781732 source:c:\users\user\desktop\sara love multifile\final sara project\zoo.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"zoo.h"
+
+1486121716 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\anthro.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"anthro.h"
+
+1486121162 c:\users\user\desktop\sara love multifile\last update ju admission project final\bunit.h
+	<bits/stdc++.h>
+
+1486121716 c:\users\user\desktop\sara love multifile\last update ju admission project final\anthro.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\arch.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"arch.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\cunit.h
+	<bits/stdc++.h>
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\arch.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486119868 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\aunit.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486119868 c:\users\user\desktop\sara love multifile\last update ju admission project final\aunit.h
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\ban.cpp
+	<bits/stdc++.h>
+	"ban.h"
+	"cunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\ban.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\biochem.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"biochem.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\dunit.h
+	<bits/stdc++.h>
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\biochem.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485788722 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\bot.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"bot.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\bot.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486121162 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\bunit.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\chem.cpp
+	<bits/stdc++.h>
+	"chem.h"
+	"aunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\chem.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\cse.cpp
+	<bits/stdc++.h>
+	"cse.h"
+	"aunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\cse.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\cunit.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\drama.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"drama.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\drama.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\dunit.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486121289 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\eco.cpp
+	<bits/stdc++.h>
+	"eco.h"
+	"bunit.h"
+
+1486120355 c:\users\user\desktop\sara love multifile\last update ju admission project final\eco.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\eng.cpp
+	<bits/stdc++.h>
+	"eng.h"
+	"cunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\eng.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\env.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"env.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\env.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\eunit.cpp
+	<bits/stdc++.h>
+	"eunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\eunit.h
+	<bits/stdc++.h>
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\finearts.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"finearts.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\finearts.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\funit.cpp
+	<bits/stdc++.h>
+	"funit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\funit.h
+	<bits/stdc++.h>
+
+1486121373 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\ge.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"ge.h"
+
+1486121373 c:\users\user\desktop\sara love multifile\last update ju admission project final\ge.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\gene.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"gene.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\gene.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\geo.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"geo.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\geo.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486121596 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\gov.cpp
+	<bits/stdc++.h>
+	"gov.h"
+	"bunit.h"
+
+1486121596 c:\users\user\desktop\sara love multifile\last update ju admission project final\gov.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\gunit.cpp
+	<bits/stdc++.h>
+	"gunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\gunit.h
+	<bits/stdc++.h>
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\health.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"health.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\health.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\hist.cpp
+	<bits/stdc++.h>
+	"hist.h"
+	"cunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\hist.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\hunit.cpp
+	<bits/stdc++.h>
+	"hunit.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\hunit.h
+	<bits/stdc++.h>
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\ir.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"ir.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\ir.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\jour.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"jour.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\jour.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486119868 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\maths.cpp
+	<bits/stdc++.h>
+	"maths.h"
+	"aunit.h"
+
+1486119868 c:\users\user\desktop\sara love multifile\last update ju admission project final\maths.h
+	"aunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\mbio.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"mbio.h"
+
+1485781731 c:\users\user\desktop\sara love multifile\last update ju admission project final\mbio.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486121870 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\pad.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"pad.h"
+
+1486121870 c:\users\user\desktop\sara love multifile\last update ju admission project final\pad.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781731 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\phar.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"phar.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\last update ju admission project final\phar.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781732 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\phil.cpp
+	<bits/stdc++.h>
+	"phil.h"
+	"cunit.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\last update ju admission project final\phil.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781732 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\phy.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"phy.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\last update ju admission project final\phy.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1485781732 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\stats.cpp
+	<bits/stdc++.h>
+	"stats.h"
+	"aunit.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\last update ju admission project final\stats.h
+	"aunit.h"
+
+1486122079 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\student.cpp
+	<iostream>
+	"student.h"
+
+1486118328 c:\users\user\desktop\sara love multifile\last update ju admission project final\student.h
+	<bits/stdc++.h>
+
+1486121745 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\urp.cpp
+	<bits/stdc++.h>
+	"urp.h"
+	"bunit.h"
+
+1486121745 c:\users\user\desktop\sara love multifile\last update ju admission project final\urp.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781732 source:c:\users\user\desktop\sara love multifile\last update ju admission project final\zoo.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"zoo.h"
+
+1485781732 c:\users\user\desktop\sara love multifile\last update ju admission project final\zoo.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202600 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\anthro.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"anthro.h"
+
+1486121164 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\bunit.h
+	<bits/stdc++.h>
+
+1486121718 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\anthro.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\arch.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"arch.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\cunit.h
+	<bits/stdc++.h>
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\arch.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202600 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\aunit.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486210476 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\aunit.h
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\ban.cpp
+	<bits/stdc++.h>
+	"ban.h"
+	"cunit.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\ban.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\biochem.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"biochem.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\dunit.h
+	<bits/stdc++.h>
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\biochem.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202600 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\bot.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"bot.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\bot.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202600 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\bunit.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\chem.cpp
+	<bits/stdc++.h>
+	"chem.h"
+	"aunit.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\chem.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202600 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\cse.cpp
+	<bits/stdc++.h>
+	"cse.h"
+	"aunit.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\cse.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\cunit.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\drama.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"drama.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\drama.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\dunit.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\eco.cpp
+	<bits/stdc++.h>
+	"eco.h"
+	"bunit.h"
+
+1486120356 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\eco.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\eng.cpp
+	<bits/stdc++.h>
+	"eng.h"
+	"cunit.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\eng.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\env.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"env.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\env.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\eunit.cpp
+	<bits/stdc++.h>
+	"eunit.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\eunit.h
+	<bits/stdc++.h>
+
+1486202600 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\finearts.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"finearts.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\finearts.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202600 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\funit.cpp
+	<bits/stdc++.h>
+	"funit.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\funit.h
+	<bits/stdc++.h>
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\ge.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"ge.h"
+
+1486121374 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\ge.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202600 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\gene.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"gene.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\gene.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202600 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\geo.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"geo.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\geo.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202600 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\gov.cpp
+	<bits/stdc++.h>
+	"gov.h"
+	"bunit.h"
+
+1486121598 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\gov.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\gunit.cpp
+	<bits/stdc++.h>
+	"gunit.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\gunit.h
+	<bits/stdc++.h>
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\health.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"health.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\health.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\hist.cpp
+	<bits/stdc++.h>
+	"hist.h"
+	"cunit.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\hist.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\hunit.cpp
+	<bits/stdc++.h>
+	"hunit.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\hunit.h
+	<bits/stdc++.h>
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\ir.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"ir.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\ir.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\jour.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"jour.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\jour.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1488650496 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\main.cpp
+	<bits/stdc++.h>
+	"student.h"
+	"aunit.h"
+	"maths.h"
+	"stats.h"
+	"chem.h"
+	"phy.h"
+	"geo.h"
+	"cse.h"
+	"env.h"
+	"bunit.h"
+	"eco.h"
+	"ge.h"
+	"gov.h"
+	"anthro.h"
+	"urp.h"
+	"pad.h"
+	"cunit.h"
+	"ban.h"
+	"eng.h"
+	"hist.h"
+	"phil.h"
+	"drama.h"
+	"arch.h"
+	"ir.h"
+	"jour.h"
+	"finearts.h"
+	"dunit.h"
+	"bot.h"
+	"zoo.h"
+	"phar.h"
+	"biochem.h"
+	"mbio.h"
+	"gene.h"
+	"health.h"
+	"eunit.h"
+	"funit.h"
+	"gunit.h"
+	"hunit.h"
+
+1486230146 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\student.h
+	<bits/stdc++.h>
+
+1486119870 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\maths.h
+	"aunit.h"
+
+1485781734 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\stats.h
+	"aunit.h"
+
+1485781734 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\phy.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486121746 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\urp.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486121872 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\pad.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781734 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\phil.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781734 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\zoo.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781734 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\phar.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781732 c:\users\rezwa_en0xucx\desktop\last update ju admission project final\mbio.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202628 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\maths.cpp
+	<bits/stdc++.h>
+	"maths.h"
+	"aunit.h"
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\mbio.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"mbio.h"
+
+1486202490 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\pad.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"pad.h"
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\phar.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"phar.h"
+
+1486202600 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\phil.cpp
+	<bits/stdc++.h>
+	"phil.h"
+	"cunit.h"
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\phy.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"phy.h"
+
+1486202600 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\stats.cpp
+	<bits/stdc++.h>
+	"stats.h"
+	"aunit.h"
+
+1486122080 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\student.cpp
+	<iostream>
+	"student.h"
+
+1486202602 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\urp.cpp
+	<bits/stdc++.h>
+	"urp.h"
+	"bunit.h"
+
+1486202600 source:c:\users\rezwa_en0xucx\desktop\last update ju admission project final\zoo.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"zoo.h"
+
+1486202600 source:d:\last update ju admission project final\anthro.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"anthro.h"
+
+1486121164 d:\last update ju admission project final\bunit.h
+	<bits/stdc++.h>
+
+1486121718 d:\last update ju admission project final\anthro.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:d:\last update ju admission project final\arch.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"arch.h"
+
+1485781732 d:\last update ju admission project final\cunit.h
+	<bits/stdc++.h>
+
+1485781732 d:\last update ju admission project final\arch.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202600 source:d:\last update ju admission project final\aunit.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486210476 d:\last update ju admission project final\aunit.h
+
+1486202602 source:d:\last update ju admission project final\ban.cpp
+	<bits/stdc++.h>
+	"ban.h"
+	"cunit.h"
+
+1485781732 d:\last update ju admission project final\ban.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:d:\last update ju admission project final\biochem.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"biochem.h"
+
+1485781732 d:\last update ju admission project final\dunit.h
+	<bits/stdc++.h>
+
+1485781732 d:\last update ju admission project final\biochem.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202600 source:d:\last update ju admission project final\bot.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"bot.h"
+
+1485781732 d:\last update ju admission project final\bot.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202600 source:d:\last update ju admission project final\bunit.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:d:\last update ju admission project final\chem.cpp
+	<bits/stdc++.h>
+	"chem.h"
+	"aunit.h"
+
+1485781732 d:\last update ju admission project final\chem.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202600 source:d:\last update ju admission project final\cse.cpp
+	<bits/stdc++.h>
+	"cse.h"
+	"aunit.h"
+
+1485781732 d:\last update ju admission project final\cse.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202602 source:d:\last update ju admission project final\cunit.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:d:\last update ju admission project final\drama.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"drama.h"
+
+1485781732 d:\last update ju admission project final\drama.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:d:\last update ju admission project final\dunit.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202602 source:d:\last update ju admission project final\eco.cpp
+	<bits/stdc++.h>
+	"eco.h"
+	"bunit.h"
+
+1486120356 d:\last update ju admission project final\eco.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:d:\last update ju admission project final\eng.cpp
+	<bits/stdc++.h>
+	"eng.h"
+	"cunit.h"
+
+1485781732 d:\last update ju admission project final\eng.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:d:\last update ju admission project final\env.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"env.h"
+
+1485781732 d:\last update ju admission project final\env.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202602 source:d:\last update ju admission project final\eunit.cpp
+	<bits/stdc++.h>
+	"eunit.h"
+
+1485781732 d:\last update ju admission project final\eunit.h
+	<bits/stdc++.h>
+
+1486202600 source:d:\last update ju admission project final\finearts.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"finearts.h"
+
+1485781732 d:\last update ju admission project final\finearts.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202600 source:d:\last update ju admission project final\funit.cpp
+	<bits/stdc++.h>
+	"funit.h"
+
+1485781732 d:\last update ju admission project final\funit.h
+	<bits/stdc++.h>
+
+1486202602 source:d:\last update ju admission project final\ge.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"ge.h"
+
+1486121374 d:\last update ju admission project final\ge.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202600 source:d:\last update ju admission project final\gene.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"gene.h"
+
+1485781732 d:\last update ju admission project final\gene.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202600 source:d:\last update ju admission project final\geo.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"geo.h"
+
+1485781732 d:\last update ju admission project final\geo.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202600 source:d:\last update ju admission project final\gov.cpp
+	<bits/stdc++.h>
+	"gov.h"
+	"bunit.h"
+
+1486121598 d:\last update ju admission project final\gov.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:d:\last update ju admission project final\gunit.cpp
+	<bits/stdc++.h>
+	"gunit.h"
+
+1485781732 d:\last update ju admission project final\gunit.h
+	<bits/stdc++.h>
+
+1486202602 source:d:\last update ju admission project final\health.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"health.h"
+
+1485781732 d:\last update ju admission project final\health.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202602 source:d:\last update ju admission project final\hist.cpp
+	<bits/stdc++.h>
+	"hist.h"
+	"cunit.h"
+
+1485781732 d:\last update ju admission project final\hist.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:d:\last update ju admission project final\hunit.cpp
+	<bits/stdc++.h>
+	"hunit.h"
+
+1485781732 d:\last update ju admission project final\hunit.h
+	<bits/stdc++.h>
+
+1486202602 source:d:\last update ju admission project final\ir.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"ir.h"
+
+1485781732 d:\last update ju admission project final\ir.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:d:\last update ju admission project final\jour.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"jour.h"
+
+1485781732 d:\last update ju admission project final\jour.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486212490 source:d:\last update ju admission project final\main.cpp
+	<bits/stdc++.h>
+	"student.h"
+	"aunit.h"
+	"maths.h"
+	"stats.h"
+	"chem.h"
+	"phy.h"
+	"geo.h"
+	"cse.h"
+	"env.h"
+	"bunit.h"
+	"eco.h"
+	"ge.h"
+	"gov.h"
+	"anthro.h"
+	"urp.h"
+	"pad.h"
+	"cunit.h"
+	"ban.h"
+	"eng.h"
+	"hist.h"
+	"phil.h"
+	"drama.h"
+	"arch.h"
+	"ir.h"
+	"jour.h"
+	"finearts.h"
+	"dunit.h"
+	"bot.h"
+	"zoo.h"
+	"phar.h"
+	"biochem.h"
+	"mbio.h"
+	"gene.h"
+	"health.h"
+	"eunit.h"
+	"funit.h"
+	"gunit.h"
+	"hunit.h"
+
+1486230146 d:\last update ju admission project final\student.h
+	<bits/stdc++.h>
+
+1486119870 d:\last update ju admission project final\maths.h
+	"aunit.h"
+
+1485781734 d:\last update ju admission project final\stats.h
+	"aunit.h"
+
+1485781734 d:\last update ju admission project final\phy.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486121746 d:\last update ju admission project final\urp.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486121872 d:\last update ju admission project final\pad.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781734 d:\last update ju admission project final\phil.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781734 d:\last update ju admission project final\zoo.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781734 d:\last update ju admission project final\phar.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781732 d:\last update ju admission project final\mbio.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202628 source:d:\last update ju admission project final\maths.cpp
+	<bits/stdc++.h>
+	"maths.h"
+	"aunit.h"
+
+1486202602 source:d:\last update ju admission project final\mbio.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"mbio.h"
+
+1486202490 source:d:\last update ju admission project final\pad.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"pad.h"
+
+1486202602 source:d:\last update ju admission project final\phar.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"phar.h"
+
+1486202600 source:d:\last update ju admission project final\phil.cpp
+	<bits/stdc++.h>
+	"phil.h"
+	"cunit.h"
+
+1486202602 source:d:\last update ju admission project final\phy.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"phy.h"
+
+1486202600 source:d:\last update ju admission project final\stats.cpp
+	<bits/stdc++.h>
+	"stats.h"
+	"aunit.h"
+
+1486122080 source:d:\last update ju admission project final\student.cpp
+	<iostream>
+	"student.h"
+
+1486202602 source:d:\last update ju admission project final\urp.cpp
+	<bits/stdc++.h>
+	"urp.h"
+	"bunit.h"
+
+1486202600 source:d:\last update ju admission project final\zoo.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"zoo.h"
+
+1486202600 source:i:\last update ju admission project final\anthro.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"anthro.h"
+
+1486121164 i:\last update ju admission project final\bunit.h
+	<bits/stdc++.h>
+
+1486121718 i:\last update ju admission project final\anthro.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:i:\last update ju admission project final\arch.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"arch.h"
+
+1485781732 i:\last update ju admission project final\cunit.h
+	<bits/stdc++.h>
+
+1485781732 i:\last update ju admission project final\arch.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202600 source:i:\last update ju admission project final\aunit.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486210476 i:\last update ju admission project final\aunit.h
+
+1486202602 source:i:\last update ju admission project final\ban.cpp
+	<bits/stdc++.h>
+	"ban.h"
+	"cunit.h"
+
+1485781732 i:\last update ju admission project final\ban.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:i:\last update ju admission project final\biochem.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"biochem.h"
+
+1485781732 i:\last update ju admission project final\dunit.h
+	<bits/stdc++.h>
+
+1485781732 i:\last update ju admission project final\biochem.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202600 source:i:\last update ju admission project final\bot.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"bot.h"
+
+1485781732 i:\last update ju admission project final\bot.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202600 source:i:\last update ju admission project final\bunit.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:i:\last update ju admission project final\chem.cpp
+	<bits/stdc++.h>
+	"chem.h"
+	"aunit.h"
+
+1485781732 i:\last update ju admission project final\chem.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202600 source:i:\last update ju admission project final\cse.cpp
+	<bits/stdc++.h>
+	"cse.h"
+	"aunit.h"
+
+1485781732 i:\last update ju admission project final\cse.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202602 source:i:\last update ju admission project final\cunit.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:i:\last update ju admission project final\drama.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"drama.h"
+
+1485781732 i:\last update ju admission project final\drama.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:i:\last update ju admission project final\dunit.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202602 source:i:\last update ju admission project final\eco.cpp
+	<bits/stdc++.h>
+	"eco.h"
+	"bunit.h"
+
+1486120356 i:\last update ju admission project final\eco.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:i:\last update ju admission project final\eng.cpp
+	<bits/stdc++.h>
+	"eng.h"
+	"cunit.h"
+
+1485781732 i:\last update ju admission project final\eng.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:i:\last update ju admission project final\env.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"env.h"
+
+1485781732 i:\last update ju admission project final\env.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202602 source:i:\last update ju admission project final\eunit.cpp
+	<bits/stdc++.h>
+	"eunit.h"
+
+1485781732 i:\last update ju admission project final\eunit.h
+	<bits/stdc++.h>
+
+1486202600 source:i:\last update ju admission project final\finearts.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"finearts.h"
+
+1485781732 i:\last update ju admission project final\finearts.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202600 source:i:\last update ju admission project final\funit.cpp
+	<bits/stdc++.h>
+	"funit.h"
+
+1485781732 i:\last update ju admission project final\funit.h
+	<bits/stdc++.h>
+
+1486202602 source:i:\last update ju admission project final\ge.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"ge.h"
+
+1486121374 i:\last update ju admission project final\ge.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202600 source:i:\last update ju admission project final\gene.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"gene.h"
+
+1485781732 i:\last update ju admission project final\gene.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202600 source:i:\last update ju admission project final\geo.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"geo.h"
+
+1485781732 i:\last update ju admission project final\geo.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202600 source:i:\last update ju admission project final\gov.cpp
+	<bits/stdc++.h>
+	"gov.h"
+	"bunit.h"
+
+1486121598 i:\last update ju admission project final\gov.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:i:\last update ju admission project final\gunit.cpp
+	<bits/stdc++.h>
+	"gunit.h"
+
+1485781732 i:\last update ju admission project final\gunit.h
+	<bits/stdc++.h>
+
+1486202602 source:i:\last update ju admission project final\health.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"health.h"
+
+1485781732 i:\last update ju admission project final\health.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202602 source:i:\last update ju admission project final\hist.cpp
+	<bits/stdc++.h>
+	"hist.h"
+	"cunit.h"
+
+1485781732 i:\last update ju admission project final\hist.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:i:\last update ju admission project final\hunit.cpp
+	<bits/stdc++.h>
+	"hunit.h"
+
+1485781732 i:\last update ju admission project final\hunit.h
+	<bits/stdc++.h>
+
+1486202602 source:i:\last update ju admission project final\ir.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"ir.h"
+
+1485781732 i:\last update ju admission project final\ir.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:i:\last update ju admission project final\jour.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"jour.h"
+
+1485781732 i:\last update ju admission project final\jour.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486212490 source:i:\last update ju admission project final\main.cpp
+	<bits/stdc++.h>
+	"student.h"
+	"aunit.h"
+	"maths.h"
+	"stats.h"
+	"chem.h"
+	"phy.h"
+	"geo.h"
+	"cse.h"
+	"env.h"
+	"bunit.h"
+	"eco.h"
+	"ge.h"
+	"gov.h"
+	"anthro.h"
+	"urp.h"
+	"pad.h"
+	"cunit.h"
+	"ban.h"
+	"eng.h"
+	"hist.h"
+	"phil.h"
+	"drama.h"
+	"arch.h"
+	"ir.h"
+	"jour.h"
+	"finearts.h"
+	"dunit.h"
+	"bot.h"
+	"zoo.h"
+	"phar.h"
+	"biochem.h"
+	"mbio.h"
+	"gene.h"
+	"health.h"
+	"eunit.h"
+	"funit.h"
+	"gunit.h"
+	"hunit.h"
+
+1486230146 i:\last update ju admission project final\student.h
+	<bits/stdc++.h>
+
+1486119870 i:\last update ju admission project final\maths.h
+	"aunit.h"
+
+1485781734 i:\last update ju admission project final\stats.h
+	"aunit.h"
+
+1485781734 i:\last update ju admission project final\phy.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486121746 i:\last update ju admission project final\urp.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486121872 i:\last update ju admission project final\pad.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781734 i:\last update ju admission project final\phil.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781734 i:\last update ju admission project final\zoo.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781734 i:\last update ju admission project final\phar.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781732 i:\last update ju admission project final\mbio.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202628 source:i:\last update ju admission project final\maths.cpp
+	<bits/stdc++.h>
+	"maths.h"
+	"aunit.h"
+
+1486202602 source:i:\last update ju admission project final\mbio.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"mbio.h"
+
+1486202490 source:i:\last update ju admission project final\pad.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"pad.h"
+
+1486202602 source:i:\last update ju admission project final\phar.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"phar.h"
+
+1486202600 source:i:\last update ju admission project final\phil.cpp
+	<bits/stdc++.h>
+	"phil.h"
+	"cunit.h"
+
+1486202602 source:i:\last update ju admission project final\phy.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"phy.h"
+
+1486202600 source:i:\last update ju admission project final\stats.cpp
+	<bits/stdc++.h>
+	"stats.h"
+	"aunit.h"
+
+1486122080 source:i:\last update ju admission project final\student.cpp
+	<iostream>
+	"student.h"
+
+1486202602 source:i:\last update ju admission project final\urp.cpp
+	<bits/stdc++.h>
+	"urp.h"
+	"bunit.h"
+
+1486202600 source:i:\last update ju admission project final\zoo.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"zoo.h"
+
+1486202600 source:g:\last update ju admission project final\anthro.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"anthro.h"
+
+1486121164 g:\last update ju admission project final\bunit.h
+	<bits/stdc++.h>
+
+1486121718 g:\last update ju admission project final\anthro.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:g:\last update ju admission project final\arch.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"arch.h"
+
+1485781732 g:\last update ju admission project final\cunit.h
+	<bits/stdc++.h>
+
+1485781732 g:\last update ju admission project final\arch.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202600 source:g:\last update ju admission project final\aunit.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486210476 g:\last update ju admission project final\aunit.h
+
+1486202602 source:g:\last update ju admission project final\ban.cpp
+	<bits/stdc++.h>
+	"ban.h"
+	"cunit.h"
+
+1485781732 g:\last update ju admission project final\ban.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:g:\last update ju admission project final\biochem.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"biochem.h"
+
+1485781732 g:\last update ju admission project final\dunit.h
+	<bits/stdc++.h>
+
+1485781732 g:\last update ju admission project final\biochem.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202600 source:g:\last update ju admission project final\bot.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"bot.h"
+
+1485781732 g:\last update ju admission project final\bot.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202600 source:g:\last update ju admission project final\bunit.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:g:\last update ju admission project final\chem.cpp
+	<bits/stdc++.h>
+	"chem.h"
+	"aunit.h"
+
+1485781732 g:\last update ju admission project final\chem.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202600 source:g:\last update ju admission project final\cse.cpp
+	<bits/stdc++.h>
+	"cse.h"
+	"aunit.h"
+
+1485781732 g:\last update ju admission project final\cse.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202602 source:g:\last update ju admission project final\cunit.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:g:\last update ju admission project final\drama.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"drama.h"
+
+1485781732 g:\last update ju admission project final\drama.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:g:\last update ju admission project final\dunit.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202602 source:g:\last update ju admission project final\eco.cpp
+	<bits/stdc++.h>
+	"eco.h"
+	"bunit.h"
+
+1486120356 g:\last update ju admission project final\eco.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:g:\last update ju admission project final\eng.cpp
+	<bits/stdc++.h>
+	"eng.h"
+	"cunit.h"
+
+1485781732 g:\last update ju admission project final\eng.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:g:\last update ju admission project final\env.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"env.h"
+
+1485781732 g:\last update ju admission project final\env.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202602 source:g:\last update ju admission project final\eunit.cpp
+	<bits/stdc++.h>
+	"eunit.h"
+
+1485781732 g:\last update ju admission project final\eunit.h
+	<bits/stdc++.h>
+
+1486202600 source:g:\last update ju admission project final\finearts.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"finearts.h"
+
+1485781732 g:\last update ju admission project final\finearts.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202600 source:g:\last update ju admission project final\funit.cpp
+	<bits/stdc++.h>
+	"funit.h"
+
+1485781732 g:\last update ju admission project final\funit.h
+	<bits/stdc++.h>
+
+1486202602 source:g:\last update ju admission project final\ge.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"ge.h"
+
+1486121374 g:\last update ju admission project final\ge.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202600 source:g:\last update ju admission project final\gene.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"gene.h"
+
+1485781732 g:\last update ju admission project final\gene.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202600 source:g:\last update ju admission project final\geo.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"geo.h"
+
+1485781732 g:\last update ju admission project final\geo.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202600 source:g:\last update ju admission project final\gov.cpp
+	<bits/stdc++.h>
+	"gov.h"
+	"bunit.h"
+
+1486121598 g:\last update ju admission project final\gov.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:g:\last update ju admission project final\gunit.cpp
+	<bits/stdc++.h>
+	"gunit.h"
+
+1485781732 g:\last update ju admission project final\gunit.h
+	<bits/stdc++.h>
+
+1486202602 source:g:\last update ju admission project final\health.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"health.h"
+
+1485781732 g:\last update ju admission project final\health.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202602 source:g:\last update ju admission project final\hist.cpp
+	<bits/stdc++.h>
+	"hist.h"
+	"cunit.h"
+
+1485781732 g:\last update ju admission project final\hist.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:g:\last update ju admission project final\hunit.cpp
+	<bits/stdc++.h>
+	"hunit.h"
+
+1485781732 g:\last update ju admission project final\hunit.h
+	<bits/stdc++.h>
+
+1486202602 source:g:\last update ju admission project final\ir.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"ir.h"
+
+1485781732 g:\last update ju admission project final\ir.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:g:\last update ju admission project final\jour.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"jour.h"
+
+1485781732 g:\last update ju admission project final\jour.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486212490 source:g:\last update ju admission project final\main.cpp
+	<bits/stdc++.h>
+	"student.h"
+	"aunit.h"
+	"maths.h"
+	"stats.h"
+	"chem.h"
+	"phy.h"
+	"geo.h"
+	"cse.h"
+	"env.h"
+	"bunit.h"
+	"eco.h"
+	"ge.h"
+	"gov.h"
+	"anthro.h"
+	"urp.h"
+	"pad.h"
+	"cunit.h"
+	"ban.h"
+	"eng.h"
+	"hist.h"
+	"phil.h"
+	"drama.h"
+	"arch.h"
+	"ir.h"
+	"jour.h"
+	"finearts.h"
+	"dunit.h"
+	"bot.h"
+	"zoo.h"
+	"phar.h"
+	"biochem.h"
+	"mbio.h"
+	"gene.h"
+	"health.h"
+	"eunit.h"
+	"funit.h"
+	"gunit.h"
+	"hunit.h"
+
+1486230146 g:\last update ju admission project final\student.h
+	<bits/stdc++.h>
+
+1486119870 g:\last update ju admission project final\maths.h
+	"aunit.h"
+
+1485781734 g:\last update ju admission project final\stats.h
+	"aunit.h"
+
+1485781734 g:\last update ju admission project final\phy.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486121746 g:\last update ju admission project final\urp.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486121872 g:\last update ju admission project final\pad.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781734 g:\last update ju admission project final\phil.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781734 g:\last update ju admission project final\zoo.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781734 g:\last update ju admission project final\phar.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781732 g:\last update ju admission project final\mbio.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202628 source:g:\last update ju admission project final\maths.cpp
+	<bits/stdc++.h>
+	"maths.h"
+	"aunit.h"
+
+1486202602 source:g:\last update ju admission project final\mbio.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"mbio.h"
+
+1486202490 source:g:\last update ju admission project final\pad.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"pad.h"
+
+1486202602 source:g:\last update ju admission project final\phar.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"phar.h"
+
+1486202600 source:g:\last update ju admission project final\phil.cpp
+	<bits/stdc++.h>
+	"phil.h"
+	"cunit.h"
+
+1486202602 source:g:\last update ju admission project final\phy.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"phy.h"
+
+1486202600 source:g:\last update ju admission project final\stats.cpp
+	<bits/stdc++.h>
+	"stats.h"
+	"aunit.h"
+
+1486122080 source:g:\last update ju admission project final\student.cpp
+	<iostream>
+	"student.h"
+
+1486202602 source:g:\last update ju admission project final\urp.cpp
+	<bits/stdc++.h>
+	"urp.h"
+	"bunit.h"
+
+1486202600 source:g:\last update ju admission project final\zoo.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"zoo.h"
+
+1486202600 source:d:\documents\2. babuni\project cpp\last update ju admission project final\anthro.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"anthro.h"
+
+1486121164 d:\documents\2. babuni\project cpp\last update ju admission project final\bunit.h
+	<bits/stdc++.h>
+
+1486121718 d:\documents\2. babuni\project cpp\last update ju admission project final\anthro.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\arch.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"arch.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\cunit.h
+	<bits/stdc++.h>
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\arch.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202600 source:d:\documents\2. babuni\project cpp\last update ju admission project final\aunit.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486210476 d:\documents\2. babuni\project cpp\last update ju admission project final\aunit.h
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\ban.cpp
+	<bits/stdc++.h>
+	"ban.h"
+	"cunit.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\ban.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\biochem.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"biochem.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\dunit.h
+	<bits/stdc++.h>
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\biochem.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202600 source:d:\documents\2. babuni\project cpp\last update ju admission project final\bot.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"bot.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\bot.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202600 source:d:\documents\2. babuni\project cpp\last update ju admission project final\bunit.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\chem.cpp
+	<bits/stdc++.h>
+	"chem.h"
+	"aunit.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\chem.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202600 source:d:\documents\2. babuni\project cpp\last update ju admission project final\cse.cpp
+	<bits/stdc++.h>
+	"cse.h"
+	"aunit.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\cse.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\cunit.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\drama.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"drama.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\drama.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\dunit.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\eco.cpp
+	<bits/stdc++.h>
+	"eco.h"
+	"bunit.h"
+
+1486120356 d:\documents\2. babuni\project cpp\last update ju admission project final\eco.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\eng.cpp
+	<bits/stdc++.h>
+	"eng.h"
+	"cunit.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\eng.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\env.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"env.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\env.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\eunit.cpp
+	<bits/stdc++.h>
+	"eunit.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\eunit.h
+	<bits/stdc++.h>
+
+1486202600 source:d:\documents\2. babuni\project cpp\last update ju admission project final\finearts.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"finearts.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\finearts.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202600 source:d:\documents\2. babuni\project cpp\last update ju admission project final\funit.cpp
+	<bits/stdc++.h>
+	"funit.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\funit.h
+	<bits/stdc++.h>
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\ge.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"ge.h"
+
+1486121374 d:\documents\2. babuni\project cpp\last update ju admission project final\ge.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202600 source:d:\documents\2. babuni\project cpp\last update ju admission project final\gene.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"gene.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\gene.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202600 source:d:\documents\2. babuni\project cpp\last update ju admission project final\geo.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"geo.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\geo.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486202600 source:d:\documents\2. babuni\project cpp\last update ju admission project final\gov.cpp
+	<bits/stdc++.h>
+	"gov.h"
+	"bunit.h"
+
+1486121598 d:\documents\2. babuni\project cpp\last update ju admission project final\gov.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\gunit.cpp
+	<bits/stdc++.h>
+	"gunit.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\gunit.h
+	<bits/stdc++.h>
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\health.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"health.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\health.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\hist.cpp
+	<bits/stdc++.h>
+	"hist.h"
+	"cunit.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\hist.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\hunit.cpp
+	<bits/stdc++.h>
+	"hunit.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\hunit.h
+	<bits/stdc++.h>
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\ir.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"ir.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\ir.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\jour.cpp
+	<bits/stdc++.h>
+	"cunit.h"
+	"jour.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\jour.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1488650496 source:d:\documents\2. babuni\project cpp\last update ju admission project final\main.cpp
+	<bits/stdc++.h>
+	"student.h"
+	"aunit.h"
+	"maths.h"
+	"stats.h"
+	"chem.h"
+	"phy.h"
+	"geo.h"
+	"cse.h"
+	"env.h"
+	"bunit.h"
+	"eco.h"
+	"ge.h"
+	"gov.h"
+	"anthro.h"
+	"urp.h"
+	"pad.h"
+	"cunit.h"
+	"ban.h"
+	"eng.h"
+	"hist.h"
+	"phil.h"
+	"drama.h"
+	"arch.h"
+	"ir.h"
+	"jour.h"
+	"finearts.h"
+	"dunit.h"
+	"bot.h"
+	"zoo.h"
+	"phar.h"
+	"biochem.h"
+	"mbio.h"
+	"gene.h"
+	"health.h"
+	"eunit.h"
+	"funit.h"
+	"gunit.h"
+	"hunit.h"
+
+1486230146 d:\documents\2. babuni\project cpp\last update ju admission project final\student.h
+	<bits/stdc++.h>
+
+1486119870 d:\documents\2. babuni\project cpp\last update ju admission project final\maths.h
+	"aunit.h"
+
+1485781734 d:\documents\2. babuni\project cpp\last update ju admission project final\stats.h
+	"aunit.h"
+
+1485781734 d:\documents\2. babuni\project cpp\last update ju admission project final\phy.h
+	<bits/stdc++.h>
+	"aunit.h"
+
+1486121746 d:\documents\2. babuni\project cpp\last update ju admission project final\urp.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1486121872 d:\documents\2. babuni\project cpp\last update ju admission project final\pad.h
+	<bits/stdc++.h>
+	"bunit.h"
+
+1485781734 d:\documents\2. babuni\project cpp\last update ju admission project final\phil.h
+	<bits/stdc++.h>
+	"cunit.h"
+
+1485781734 d:\documents\2. babuni\project cpp\last update ju admission project final\zoo.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781734 d:\documents\2. babuni\project cpp\last update ju admission project final\phar.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1485781732 d:\documents\2. babuni\project cpp\last update ju admission project final\mbio.h
+	<bits/stdc++.h>
+	"dunit.h"
+
+1486202628 source:d:\documents\2. babuni\project cpp\last update ju admission project final\maths.cpp
+	<bits/stdc++.h>
+	"maths.h"
+	"aunit.h"
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\mbio.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"mbio.h"
+
+1486202490 source:d:\documents\2. babuni\project cpp\last update ju admission project final\pad.cpp
+	<bits/stdc++.h>
+	"bunit.h"
+	"pad.h"
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\phar.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"phar.h"
+
+1486202600 source:d:\documents\2. babuni\project cpp\last update ju admission project final\phil.cpp
+	<bits/stdc++.h>
+	"phil.h"
+	"cunit.h"
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\phy.cpp
+	<bits/stdc++.h>
+	"aunit.h"
+	"phy.h"
+
+1486202600 source:d:\documents\2. babuni\project cpp\last update ju admission project final\stats.cpp
+	<bits/stdc++.h>
+	"stats.h"
+	"aunit.h"
+
+1486122080 source:d:\documents\2. babuni\project cpp\last update ju admission project final\student.cpp
+	<iostream>
+	"student.h"
+
+1486202602 source:d:\documents\2. babuni\project cpp\last update ju admission project final\urp.cpp
+	<bits/stdc++.h>
+	"urp.h"
+	"bunit.h"
+
+1486202600 source:d:\documents\2. babuni\project cpp\last update ju admission project final\zoo.cpp
+	<bits/stdc++.h>
+	"dunit.h"
+	"zoo.h"
+

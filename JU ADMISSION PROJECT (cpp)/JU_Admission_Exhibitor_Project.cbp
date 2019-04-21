@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="JU_Admission_Exhibitor_Project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/JU_Admission_Exhibitor_Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/JU_Admission_Exhibitor_Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="anthro.cpp" />
+		<Unit filename="anthro.h" />
+		<Unit filename="arch.cpp" />
+		<Unit filename="arch.h" />
+		<Unit filename="aunit.cpp" />
+		<Unit filename="aunit.h" />
+		<Unit filename="ban.cpp" />
+		<Unit filename="ban.h" />
+		<Unit filename="biochem.cpp" />
+		<Unit filename="biochem.h" />
+		<Unit filename="bot.cpp" />
+		<Unit filename="bot.h" />
+		<Unit filename="bunit.cpp" />
+		<Unit filename="bunit.h" />
+		<Unit filename="chem.cpp" />
+		<Unit filename="chem.h" />
+		<Unit filename="cse.cpp" />
+		<Unit filename="cse.h" />
+		<Unit filename="cunit.cpp" />
+		<Unit filename="cunit.h" />
+		<Unit filename="drama.cpp" />
+		<Unit filename="drama.h" />
+		<Unit filename="dunit.cpp" />
+		<Unit filename="dunit.h" />
+		<Unit filename="eco.cpp" />
+		<Unit filename="eco.h" />
+		<Unit filename="eng.cpp" />
+		<Unit filename="eng.h" />
+		<Unit filename="env.cpp" />
+		<Unit filename="env.h" />
+		<Unit filename="eunit.cpp" />
+		<Unit filename="eunit.h" />
+		<Unit filename="finearts.cpp" />
+		<Unit filename="finearts.h" />
+		<Unit filename="funit.cpp" />
+		<Unit filename="funit.h" />
+		<Unit filename="ge.cpp" />
+		<Unit filename="ge.h" />
+		<Unit filename="gene.cpp" />
+		<Unit filename="gene.h" />
+		<Unit filename="geo.cpp" />
+		<Unit filename="geo.h" />
+		<Unit filename="gov.cpp" />
+		<Unit filename="gov.h" />
+		<Unit filename="gunit.cpp" />
+		<Unit filename="gunit.h" />
+		<Unit filename="health.cpp" />
+		<Unit filename="health.h" />
+		<Unit filename="hist.cpp" />
+		<Unit filename="hist.h" />
+		<Unit filename="hunit.cpp" />
+		<Unit filename="hunit.h" />
+		<Unit filename="ir.cpp" />
+		<Unit filename="ir.h" />
+		<Unit filename="jour.cpp" />
+		<Unit filename="jour.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="maths.cpp" />
+		<Unit filename="maths.h" />
+		<Unit filename="mbio.cpp" />
+		<Unit filename="mbio.h" />
+		<Unit filename="pad.cpp" />
+		<Unit filename="pad.h" />
+		<Unit filename="phar.cpp" />
+		<Unit filename="phar.h" />
+		<Unit filename="phil.cpp" />
+		<Unit filename="phil.h" />
+		<Unit filename="phy.cpp" />
+		<Unit filename="phy.h" />
+		<Unit filename="stats.cpp" />
+		<Unit filename="stats.h" />
+		<Unit filename="student.cpp" />
+		<Unit filename="student.h" />
+		<Unit filename="urp.cpp" />
+		<Unit filename="urp.h" />
+		<Unit filename="zoo.cpp" />
+		<Unit filename="zoo.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
